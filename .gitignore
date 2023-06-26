@@ -1,0 +1,43 @@
+project.lock.json
+.DS_Store
+*.pyc
+nupkg/
+
+# Rider
+.idea
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.cache
+*.log
+*.swp
+*.*~
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Visual Studio 2015
+.vs/
+C2V_UI_Blazor/C2V_UI_Blazor/AppData/Report
+C2V_UI_Blazor/C2V_UI_Blazor/AppData/PacketFiles
+C2V_UI_Blazor/C2V_UI_Blazor/AppData/TraceFile
+C2V_UI_Blazor/C2V_UI_Blazor/AppData/DPFiles/
+C2V_UI_Blazor/Dependants/net6.0/
+C2V_UI_Blazor/Dependants/AppFrameWork.xml
+C2V_UI_Blazor/Dependants/AppFrameWork.xml
